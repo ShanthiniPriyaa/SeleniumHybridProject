@@ -39,8 +39,4 @@ public class SkillraryLoginPage {
 		searchicon.click();
 	}
 	
-//	public void search() {
-//		searchicon.click();
-//	}
-
 }
